@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Anthony Richir and I’ve been developing with Java since 2008.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Through those years, I’ve been working with in several industries, mainly banking, payroll management, public and medical sectors, as well as technologies such as Spring and Hibernate.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Nowadays, I’m working at [Altissia][altissia], a Belgian company specialized in language training, whose teaching method is built around an e-learning platform.
 
+Recently, I’ve been willing to start this blog to share my experience, to think about new ideas and, I hope, to exchange with others.
 
-[jekyll-organization]: https://github.com/jekyll
+[altissia]: https://www.altissia.org/
