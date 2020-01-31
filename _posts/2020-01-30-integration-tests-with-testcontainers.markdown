@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Integration tests with Testcontainers"
-date:   2019-10-09 10:24:10 +0100
+date:   2020-01-30 17:00:00 +0100
 categories: java test
 ---
 Recently, I had to write integration tests for one of my project which involved testing the behavior of my API with Elasticsearch and RabbitMQ.
