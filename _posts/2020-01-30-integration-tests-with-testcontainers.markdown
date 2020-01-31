@@ -86,7 +86,7 @@ public class AbstractTestClass {
 }
 ```
 
-1. I declare a ContextContext that will use a static inner class defined below as initializer.
+1. I declare a ContextConfiguration that will use a static inner class defined below as initializer.
 2. The `Initializer` class implements the `ApplicationContextInitializer` callback interface, used for web applications that require some programmatic initialization of the application context.
 3. The Elasticsearch container, defined as a static field of the `Initializer`, instantiated via the constructor, using the Docker image name.
 4. I could have simply called the `start()` method of each container individually, but there is this `deepStart(...)` method provided by Testcontainers which allows to start recursively and asynchronously the containers passed.
